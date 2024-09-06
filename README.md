@@ -1,5 +1,4 @@
 # pipex
-# `pipex`
 
 The purpose of this project is the discovery in detail UNIX mechanism - `pipe`.
 
@@ -13,3 +12,7 @@ and looks like this:
 $> ./pipex file1 cmd1 cmd2 file2
 ```
 All errors like: wrong commands,  permission to files and etc, need be handle.
+<p align="left">
+  <img src="https://github.com/beatriangu/Libft/blob/main/100.png?raw=true" alt="100.png" width="150"/>
+</p>
+
